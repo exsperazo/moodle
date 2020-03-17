@@ -48,11 +48,10 @@ unset($CFG);  // Ignore this line
 //                
 
 $CFG->dbtype    = 'postgres7';       // mysql or postgres7 (for now)
-$CFG->dbhost    = 'ec2-3-229-210-93.compute-1.amazonaws.com';   // eg localhost or db.isp.com 
-$CFG->dbname    = '
-d1tjmbvu4k39h4';      // database name, eg moodle
-$CFG->dbuser    = 'hmozibnnadxawa';    // your database username
-$CFG->dbpass    = '                         05333211c053b4495cde7ba227d8217e3f6da09a4535cd5f4a4607568d1a4b6b';    // your database password
+$CFG->dbhost    = 'ec2-50-16-218-45.compute-1.amazonaws.com';  
+$CFG->dbname    = 'd3uo5d7m0fc2rm';      // database name, eg moodle
+$CFG->dbuser    = 'aikgzjoevtozuj';    // your database username
+$CFG->dbpass    = '6d427ef01022d566654c04c67b07198016b64f2aaab066cf052dd414600a83a6';    // your database password
 $CFG->prefix    = 'mdl_';        // Prefix to use for all table names
 
 $CFG->dbpersist = false;         // Should database connections be reused?
