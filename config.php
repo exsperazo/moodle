@@ -94,7 +94,7 @@ $CFG->dboptions = array(
 // If you need both intranet and Internet access please read
 // http://docs.moodle.org/en/masquerading
 
-$CFG->wwwroot   = 'https://testengine1102.herokuapp.com/';
+$CFG->wwwroot   = 'https://testengine1102.herokuapp.com';
 
 
 //=========================================================================
