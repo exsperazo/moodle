@@ -110,7 +110,7 @@ $CFG->wwwroot   = 'https://testengine1102.herokuapp.com/';
 //
 // - On Windows systems you might specify something like 'c:\moodledata'
 
-$CFG->dataroot  = '/app/moodledata';
+$CFG->dataroot  = '/app/pix';
 
 
 //=========================================================================
