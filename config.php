@@ -95,7 +95,7 @@ $CFG->dboptions = array(
 // http://docs.moodle.org/en/masquerading
 
 $CFG->wwwroot   = 'https://testengine1102.herokuapp.com';
-
+$CFG->sslproxy=true;
 
 //=========================================================================
 // 4. DATA FILES LOCATION
