@@ -52,7 +52,7 @@ $CFG->dbhost    = 'ec2-3-229-210-93.compute-1.amazonaws.com';   // eg localhost 
 $CFG->dbname    = '
 d1tjmbvu4k39h4';      // database name, eg moodle
 $CFG->dbuser    = 'hmozibnnadxawa';    // your database username
-$CFG->dbpass    = '05333211c053b4495cde7ba227d8217e3f6da09a4535cd5f4a4607568d1a4b6b';    // your database password
+$CFG->dbpass    = '                         05333211c053b4495cde7ba227d8217e3f6da09a4535cd5f4a4607568d1a4b6b';    // your database password
 $CFG->prefix    = 'mdl_';        // Prefix to use for all table names
 
 $CFG->dbpersist = false;         // Should database connections be reused?
