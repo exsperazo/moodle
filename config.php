@@ -68,7 +68,7 @@ $CFG->dbpersist = false;         // Should database connections be reused?
 // is accessible via multiple URLs then choose the most natural one 
 // that your students would use.  Do not include a trailing slash
 
-$CFG->wwwroot   = 'http://example.com/moodle';
+$CFG->wwwroot   = 'https://testengine1102.herokuapp.com';
 
 
 //=========================================================================
@@ -81,7 +81,7 @@ $CFG->wwwroot   = 'http://example.com/moodle';
 //    $CFG->dirroot = '/var/www/html/moodle';     // Redhat Linux
 //    $CFG->dirroot = '/home/example/public_html/moodle'; // Cpanel host
 
-$CFG->dirroot   = '/home/example/public_html/moodle';
+$CFG->dirroot = '/app';;
 
 
 //=========================================================================
@@ -97,7 +97,7 @@ $CFG->dirroot   = '/home/example/public_html/moodle';
 //
 // - On Windows systems you might specify something like 'c:\moodledata'
 
-$CFG->dataroot  = '/home/example/moodledata';
+$CFG->dataroot  = '/app/moodledata';
 
 
 //=========================================================================
